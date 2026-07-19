@@ -1,3 +1,6 @@
+# Disciplina: Análise e Projeto de Algoritmos
+# Ano: 2026
+
 # Conjunto Dominante Mínimo em Grafos de Intervalos (Parque Linear)
 
 ## Sobre o Problema
