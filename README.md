@@ -29,7 +29,7 @@ O algoritmo atinge a otimalidade comprovada explorando a ordenação natural dos
 
 ## Como Compilar e Executar
 
-Certifique-se de ter um compilador C (como o GCC) devidamente instalado em seu ambiente.****
+**Certifique-se de ter um compilador C (como o GCC) devidamente instalado em seu ambiente.**
 
 ## Saída do Programa
 
